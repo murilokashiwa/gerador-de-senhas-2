@@ -132,11 +132,11 @@ label {
 
 .fraca {
     width: 25%;
-    background-color: #E71B32;
+    background-color: hsl(345, 81%, 51%);
 }
 
 .media {
-    background-color: #FAF408;
+    background-color: #fa08d2;
     width: 50%;
 }
 
